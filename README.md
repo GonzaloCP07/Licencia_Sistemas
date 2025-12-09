@@ -1,6 +1,5 @@
 <img width="407" height="316" alt="image" src="https://github.com/user-attachments/assets/3b0edfbc-2965-487d-8698-062653a84dae" />
 
-Descripción del Juego
 Nexus Pulse es un juego indie de plataformas y puzzles ambientado en un mundo cibernético en ruinas. El jugador controla a un androide con la capacidad de modificar pulsos energéticos para resolver acertijos, superar obstáculos y descubrir la historia detrás del colapso de la civilización. Está desarrollado para PC (Windows/Linux/macOS) y dispositivos móviles (Android/iOS).
 
 Modelo de Negocio Elegido: Modelo Mixto (Freemium con núcleo abierto)
